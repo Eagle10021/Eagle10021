@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍🎓 About Me
-I am a **Computer Engineering Technology - Computing Science** student at **Algonquin College**. My focus is on low-level programming, robust backend systems, and networking. I enjoy solving complex problems and applying software engineering principles to build efficient, scalable applications.
+I am a **Computer Engineering Technology - Computing Science** student at **Algonquin College**. I specialize in building full-stack web applications using **PHP** and **Bootstrap**, alongside low-level systems programming in C and Java. I enjoy bridging the gap between hardware-level logic and modern web functionality.
 
-- 🔭 **Current Focus:** Strengthening my skills in C, C++, and Java.
+- 🔭 **Current Focus:** Advanced Backend Development with PHP & System Programming in C/C++.
 - 🎓 **Education:** Computer Engineering Technology @ Algonquin College (Ottawa).
 - 📂 **Portfolio:** This GitHub showcases my academic projects, lab work, and personal programming experiments.
 
@@ -20,10 +20,10 @@ I am a **Computer Engineering Technology - Computing Science** student at **Algo
 
 | Category | Tech Stack |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4B26?style=flat-square) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Web Development** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **System & Software** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4B26?style=flat-square) |
 | **Tools & OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Core Concepts** | Networking, Object-Oriented Programming (OOP), Data Structures, Algorithms, File I/O |
+| **Core Concepts** | Responsive Design, Backend Logic, Networking, OOP, Data Structures |
 
 ---
 
