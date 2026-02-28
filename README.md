@@ -10,9 +10,9 @@
 ### 👨‍🎓 About Me
 I am a **Computer Engineering Technology - Computing Science** student at **Algonquin College**. I specialize in building full-stack web applications using **PHP** and **Bootstrap**, alongside low-level systems programming in C and Java. I enjoy bridging the gap between hardware-level logic and modern web functionality.
 
-- 🔭 **Current Focus:** Advanced Backend Development with PHP & System Programming in C/C++.
-- 🎓 **Education:** Computer Engineering Technology @ Algonquin College (Ottawa).
-- 📂 **Portfolio:** This GitHub showcases my academic projects, lab work, and personal programming experiments.
+-  **Current Focus:** Advanced Backend Development with PHP & System Programming in C/C++.
+-  **Education:** Computer Engineering Technology @ Algonquin College (Ottawa).
+-  **Portfolio:** This GitHub showcases my academic projects, lab work, and personal programming experiments.
 
 ---
 
