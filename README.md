@@ -1,4 +1,4 @@
-# Hi, I'm Arshdeep Sahota 👋
+# Hi, I'm Arshdeep Sahota
 
 <p align="left">
   <a href="https://linkedin.com/in/arshdeep-sahota-864135242"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍🎓 About Me
+### About Me
 I am a **Computer Engineering Technology - Computing Science** student at **Algonquin College**. I specialize in building full-stack web applications using **PHP** and **Bootstrap**, alongside low-level systems programming in C and Java. I enjoy bridging the gap between hardware-level logic and modern web functionality.
 
 -  **Current Focus:** Advanced Backend Development with PHP & System Programming in C/C++.
@@ -16,7 +16,7 @@ I am a **Computer Engineering Technology - Computing Science** student at **Algo
 
 ---
 
-### 🛠 Skills
+### Skills
 
 | Category | Tech Stack |
 | :--- | :--- |
@@ -27,7 +27,7 @@ I am a **Computer Engineering Technology - Computing Science** student at **Algo
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eagle10021&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
