@@ -8,30 +8,31 @@
 ---
 
 ### About Me
-I am a **Computer Engineering Technology - Computing Science** student at **Algonquin College**. I specialize in building full-stack web applications using **PHP** and **Bootstrap**, alongside low-level systems programming in C and Java. I enjoy bridging the gap between hardware-level logic and modern web functionality.
 
--  **Current Focus:** Advanced Backend Development with PHP & System Programming in C/C++.
--  **Education:** Computer Engineering Technology @ Algonquin College (Ottawa).
--  **Portfolio:** This GitHub showcases my academic projects, lab work, and personal programming experiments.
+I am a **Computer Engineering Technology - Computing Science** student at **Algonquin College** (Ottawa). I specialize in low-level systems programming in C/C++, Linux environment configuration, and building full-stack applications. I enjoy bridging the gap between hardware-level logic, system administration, and modern web software.
+
+- **Current Focus:** Systems programming (C/C++), Linux automation, and full-stack backend development.
+- **Education:** Computer Engineering Technology @ Algonquin College.
+- **Portfolio:** Explore my repositories below for academic projects, open-source tools, and personal development experiments.
 
 ---
 
-### Skills
+### Skills & Technologies
 
 | Category | Tech Stack |
 | :--- | :--- |
-| **Web Development** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **System & Software** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4B26?style=flat-square) |
-| **Tools & OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-| **Core Concepts** | Responsive Design, Backend Logic, Networking, OOP, Data Structures |
+| **Systems & Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/-Assembly-6E4B26?style=flat-square) |
+| **Web Development** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **OS & Infrastructure** | ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Bash](https://img.shields.io/badge/-GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Core Concepts** | Systems Architecture, Low-Level Memory Management, OOP, Data Structures, Networking, Shell Scripting |
 
 ---
 
 ### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Eagle10021&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eagle10021&layout=compact&theme=radical&hide_border=true&hide=python" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eagle10021&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eagle10021&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
